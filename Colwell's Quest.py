@@ -6,7 +6,7 @@ import winsound
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #
-# THIS WAS CREATED BEFORE I LEARNED OOP. IT SUCKS, WHICH IS WHY IT IS UNFINISHED
+# THIS WAS CREATED BEFORE I LEARNED OOP OR PROPER FUNCTIONAL PROGRAMMING. IT SUCKS, WHICH IS WHY IT IS UNFINISHED
 #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
